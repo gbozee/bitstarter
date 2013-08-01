@@ -34,7 +34,7 @@
     <file path="/Dummy.txt" changelist="b0116305-b17f-465f-9212-6ad2cadea338" time="1375355330904" ignored="false" />
     <file path="/.gitignore" changelist="b0116305-b17f-465f-9212-6ad2cadea338" time="1375354184254" ignored="false" />
     <file path="$PROJECT_DIR$/../node-projects/bitstarter/.gitignore" changelist="b0116305-b17f-465f-9212-6ad2cadea338" time="1375354184254" ignored="false" />
-    <file path="/index.html" changelist="b0116305-b17f-465f-9212-6ad2cadea338" time="1375358371664" ignored="false" />
+    <file path="/index.html" changelist="b0116305-b17f-465f-9212-6ad2cadea338" time="1375358951134" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="19" selection-start="474" selection-end="474" vertical-scroll-proportion="0.6412556">
+            <state line="5" column="106" selection-start="214" selection-end="214" vertical-scroll-proportion="0.19058296">
               <folding />
             </state>
           </provider>
@@ -123,7 +123,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="683" />
+    <option name="x" value="556" />
+    <option name="y" value="23" />
     <option name="width" value="683" />
     <option name="height" value="738" />
   </component>
@@ -226,7 +227,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="683" y="0" width="683" height="738" extended-state="0" />
+    <frame x="556" y="23" width="683" height="738" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -381,7 +382,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="19" selection-start="474" selection-end="474" vertical-scroll-proportion="0.6412556">
+        <state line="5" column="106" selection-start="214" selection-end="214" vertical-scroll-proportion="0.19058296">
           <folding />
         </state>
       </provider>
